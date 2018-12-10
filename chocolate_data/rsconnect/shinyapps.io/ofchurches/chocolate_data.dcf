@@ -1,0 +1,12 @@
+name: chocolate_data
+title: chocolate_data
+username:
+account: ofchurches
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 542307
+bundleId: 1708133
+url: https://ofchurches.shinyapps.io/chocolate_data/
+when: 1542601010.3725
+asMultiple: FALSE
+asStatic: FALSE
